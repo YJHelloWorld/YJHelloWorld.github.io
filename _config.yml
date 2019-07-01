@@ -20,7 +20,7 @@ webtitle: 'Yao Jian's personal planet'
 bio: 'your awesome bio'
 about: true
 aboutyou: 'your introduction'
-portraits: '/assets/sphrical.png' # your portraits image file path
+portraits: '/assets/spherical.png' # your portraits image file path
 
 # SNS
 SNS: true
