@@ -4,7 +4,7 @@ title: 'Daries'
 date: 2019-07-17
 author: Jian Yao
 color: rgb(255,210,32)
-cover: '../assets/zheng1.jpg'
+cover: 'http://astro.sjtu.edu.cn/media/com_mtree/images/listings/m/119.jpg'
 subtitle: 'To konw who I am...!'
 tags: 包玉刚图书馆
 ---
