@@ -8,4 +8,8 @@ cover: '../assets/IMG_20190523_175801.jpg'
 subtitle: '生存指南'
 tags: 包玉刚图书馆
 ---
+1. 听你的话;
+2. 听你的话;
+3. 听你的话。
+保持开心， 笑口常开！ ：-）
 For more details, please refer to [zhihu]('https://www.zhihu.com/question/20549844')
