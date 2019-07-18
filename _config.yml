@@ -32,12 +32,12 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   zhihu: ''
 
 # 分页
-paginate: 2
+paginate: 4
 paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2018
+  since: 2019
 
 # Markdown
 markdown: kramdown
