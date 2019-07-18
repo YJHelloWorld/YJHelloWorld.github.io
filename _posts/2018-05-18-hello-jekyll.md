@@ -4,7 +4,7 @@ title: 'Hello ZHENGYun'
 date: 2019-07-02
 author: Jekyll
 color: rgb(255,210,32)
-cover: '../assets/IMG_20190709_132335.jpg'
+cover: '../assets/zheng.jpg'
 tags: jekyll
 ---
 
