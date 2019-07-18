@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How to beat Big Aunt'
-date: 2019-07-17
+date: 2019-07-18
 author: Jian Yao
 color: rgb(255,210,32)
 cover: '../assets/IMG_20190523_175801.jpg'
