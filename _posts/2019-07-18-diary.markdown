@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'How to beat Big Aunt'
+date: 2019-07-17
+author: Jian Yao
+color: rgb(255,210,32)
+cover: '../assets/IMG_20190523_175801.jpg'
+subtitle: 'To konw who I am...!'
+tags: 包玉刚图书馆
+---
+For more details, please refer to url:'https://www.zhihu.com/question/20549844'
