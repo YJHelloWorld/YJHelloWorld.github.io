@@ -203,14 +203,14 @@ a{
 }
 .post-cover{
   height: 300px;
-  width: 96% - {$right-sidebar-width-narrow};
+  width: 120%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   margin: 15px 2%;
 }
 .post-preview{
   height: auto;
-  width: 100%;
+  width: 120%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   padding: 0 20px;
