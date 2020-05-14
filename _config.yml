@@ -19,7 +19,12 @@ NickName: 'your awesome nickname'
 webtitle: 'Personal planet of YJ & ZY'
 bio: 'Graduate Student, majoring in astronomy.'
 about: true
-aboutyou: 'There'
+aboutyou: 'There is much we still do not know, such as what happens to objects and information that fall into a black hole. 
+Do they reemerge else-
+elsewhere in the Universe, or in another universe? And can we warp space
+and time so much that one can travel back in time? These questions are
+part of our ongoing quest to understand the Universe. Maybe someone
+will come back from the future and tell us the answers.'
 portraits: '/assets/spherical.png' # your portraits image file path
 
 # SNS
